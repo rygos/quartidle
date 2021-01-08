@@ -163,7 +163,7 @@
     * files & sql databases that this system interacts with
     * remember to include http(s?):// even for localhost.
     */ 
-    const host = "https://rmarchiv.de/highscore/api.php";
+    const host = "/highscore/api.php";
 
     /**
     * keys (object)
